@@ -65,7 +65,3 @@ CCSS cannot grant access, bypass authentication, verify unavailable sources, gua
 ## Contributing
 
 Improve the smallest weak area. Preserve terminology and safety boundaries. Add a realistic example for new behavior, validate internal references, and document limitations. Do not add invented capabilities, fake sources, or unsupported benchmark claims.
-
-## License
-
-No license file was present in the supplied skill package. Add the project’s chosen license before publishing it as an open-source repository.
